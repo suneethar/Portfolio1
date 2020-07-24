@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/suneethar/Portfolio1/static/css/main.5f361e03.chunk.css",
+    "main.js": "/suneethar/Portfolio1/static/js/main.111a0676.chunk.js",
+    "main.js.map": "/suneethar/Portfolio1/static/js/main.111a0676.chunk.js.map",
+    "runtime-main.js": "/suneethar/Portfolio1/static/js/runtime-main.fb0f50af.js",
+    "runtime-main.js.map": "/suneethar/Portfolio1/static/js/runtime-main.fb0f50af.js.map",
+    "static/js/2.0feb8754.chunk.js": "/suneethar/Portfolio1/static/js/2.0feb8754.chunk.js",
+    "static/js/2.0feb8754.chunk.js.map": "/suneethar/Portfolio1/static/js/2.0feb8754.chunk.js.map",
+    "index.html": "/suneethar/Portfolio1/index.html",
+    "precache-manifest.78c0e37fceedeb953e68117d4fd4e65e.js": "/suneethar/Portfolio1/precache-manifest.78c0e37fceedeb953e68117d4fd4e65e.js",
+    "service-worker.js": "/suneethar/Portfolio1/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/suneethar/Portfolio1/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0feb8754.chunk.js.LICENSE.txt": "/suneethar/Portfolio1/static/js/2.0feb8754.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/suneethar/Portfolio1/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb0f50af.js",
+    "static/js/2.0feb8754.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.111a0676.chunk.js"
+  ]
+}
